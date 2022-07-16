@@ -81,10 +81,10 @@ body {
   letter-spacing: 0.06em;
   color: #ffffff;
   background: #2196f3;
-  cursor: pointer;
 }
 .hero-button:hover {
   background-color: #188ce8;
+  cursor: pointer;
 }
 .hero-button:focus {
   background-color: #188ce8;
